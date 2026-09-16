@@ -16,7 +16,7 @@ with practical application to steel framing projects in Australia.
 - [Case Study](./case-study.md) - Full implementation analysis
 - [Workflows](./workflows.md) - Step-by-step processes
 - [Best Practices](./best-practices.md) - Industry insights
-- [Screenshots](./screenshots/) - Platform examples
+- [Screenshots](./screenshots.md) - Platform examples
 
 ## Key Skills
 ✓ Project Management  
